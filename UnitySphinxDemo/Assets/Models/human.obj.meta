@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 9c2962e9703331b4088ff9a723495785
+timeCreated: 1465932305
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Blonde_Elexis_nude_Blonde_Elexis_nude_body
+    100002: Blonde_Elexis_nude_Blonde_Elexis_nude_boots
+    100004: Blonde_Elexis_nude_Blonde_Elexis_nude_eyeball_l
+    100006: Blonde_Elexis_nude_Blonde_Elexis_nude_eyeball_r
+    100008: Blonde_Elexis_nude_Blonde_Elexis_nude_eyes_eyes.tga
+    100010: Blonde_Elexis_nude_Blonde_Elexis_nude_face
+    100012: Blonde_Elexis_nude_Blonde_Elexis_nude_hair
+    100014: Blonde_Elexis_nude_Blonde_Elexis_nude_mouth
+    100016: //RootNode
+    400000: Blonde_Elexis_nude_Blonde_Elexis_nude_body
+    400002: Blonde_Elexis_nude_Blonde_Elexis_nude_boots
+    400004: Blonde_Elexis_nude_Blonde_Elexis_nude_eyeball_l
+    400006: Blonde_Elexis_nude_Blonde_Elexis_nude_eyeball_r
+    400008: Blonde_Elexis_nude_Blonde_Elexis_nude_eyes_eyes.tga
+    400010: Blonde_Elexis_nude_Blonde_Elexis_nude_face
+    400012: Blonde_Elexis_nude_Blonde_Elexis_nude_hair
+    400014: Blonde_Elexis_nude_Blonde_Elexis_nude_mouth
+    400016: //RootNode
+    2300000: Blonde_Elexis_nude_Blonde_Elexis_nude_body
+    2300002: Blonde_Elexis_nude_Blonde_Elexis_nude_boots
+    2300004: Blonde_Elexis_nude_Blonde_Elexis_nude_eyeball_l
+    2300006: Blonde_Elexis_nude_Blonde_Elexis_nude_eyeball_r
+    2300008: Blonde_Elexis_nude_Blonde_Elexis_nude_eyes_eyes.tga
+    2300010: Blonde_Elexis_nude_Blonde_Elexis_nude_face
+    2300012: Blonde_Elexis_nude_Blonde_Elexis_nude_hair
+    2300014: Blonde_Elexis_nude_Blonde_Elexis_nude_mouth
+    3300000: Blonde_Elexis_nude_Blonde_Elexis_nude_body
+    3300002: Blonde_Elexis_nude_Blonde_Elexis_nude_boots
+    3300004: Blonde_Elexis_nude_Blonde_Elexis_nude_eyeball_l
+    3300006: Blonde_Elexis_nude_Blonde_Elexis_nude_eyeball_r
+    3300008: Blonde_Elexis_nude_Blonde_Elexis_nude_eyes_eyes.tga
+    3300010: Blonde_Elexis_nude_Blonde_Elexis_nude_face
+    3300012: Blonde_Elexis_nude_Blonde_Elexis_nude_hair
+    3300014: Blonde_Elexis_nude_Blonde_Elexis_nude_mouth
+    4300000: Blonde_Elexis_nude_Blonde_Elexis_nude_body
+    4300002: Blonde_Elexis_nude_Blonde_Elexis_nude_boots
+    4300004: Blonde_Elexis_nude_Blonde_Elexis_nude_eyeball_l
+    4300006: Blonde_Elexis_nude_Blonde_Elexis_nude_eyeball_r
+    4300008: Blonde_Elexis_nude_Blonde_Elexis_nude_eyes_eyes.tga
+    4300010: Blonde_Elexis_nude_Blonde_Elexis_nude_face
+    4300012: Blonde_Elexis_nude_Blonde_Elexis_nude_hair
+    4300014: Blonde_Elexis_nude_Blonde_Elexis_nude_mouth
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
