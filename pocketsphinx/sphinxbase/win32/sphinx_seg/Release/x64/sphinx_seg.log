@@ -1,0 +1,4 @@
+﻿  cont_seg.c
+..\..\src\sphinx_adtools\cont_seg.c(125): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  sphinx_seg.vcxproj -> C:\Users\Ralph\Downloads\pocketsphinx\sphinxbase\\bin\Release\x64\sphinx_seg.exe
+  sphinx_seg.vcxproj -> C:\Users\Ralph\Downloads\pocketsphinx\sphinxbase\\bin\Release\x64\sphinx_seg.pdb (Full PDB)

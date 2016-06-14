@@ -1,0 +1,4 @@
+﻿  continuous.c
+..\..\src\programs\continuous.c(110): warning C4244: '=': conversion from 'float64' to 'float', possible loss of data
+..\..\src\programs\continuous.c(175): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+..\..\src\programs\continuous.c(301): error C2198: 'ps_init': too few arguments for call

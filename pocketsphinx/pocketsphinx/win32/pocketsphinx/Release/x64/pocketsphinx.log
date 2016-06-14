@@ -1,0 +1,10 @@
+﻿  pocketsphinx.c
+..\..\src\libpocketsphinx\pocketsphinx.c(319): warning C4244: '=': conversion from 'float32' to 'int32', possible loss of data
+..\..\src\libpocketsphinx\pocketsphinx.c(339): warning C4244: 'function': conversion from 'int32' to 'float32', possible loss of data
+..\..\src\libpocketsphinx\pocketsphinx.c(893): warning C4267: '+=': conversion from 'size_t' to 'int32', possible loss of data
+..\..\src\libpocketsphinx\pocketsphinx.c(917): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+..\..\src\libpocketsphinx\pocketsphinx.c(927): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+..\..\src\libpocketsphinx\pocketsphinx.c(939): warning C4267: '+=': conversion from 'size_t' to 'long', possible loss of data
+     Creating library ..\..\bin\Release\x64/pocketsphinx.lib and object ..\..\bin\Release\x64/pocketsphinx.exp
+  pocketsphinx.vcxproj -> C:\Users\Ralph\Downloads\pocketsphinx\pocketsphinx\\bin\Release\x64\pocketsphinx.dll
+  pocketsphinx.vcxproj -> ..\..\bin\Release\x64/pocketsphinx.pdb (Full PDB)

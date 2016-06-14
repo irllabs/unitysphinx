@@ -1,0 +1,86 @@
+﻿  strfuncs.c
+  slapack_lite.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1041): warning C4244: '=': conversion from 'doublereal' to 'real', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1046): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1074): warning C4244: '=': conversion from 'doublereal' to 'real', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1079): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+  slamch.c
+  sbthread.c
+  profile.c
+  priority_queue.c
+  pio.c
+  mmio.c
+  matrix.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\matrix.c(71): warning C4244: '*=': conversion from 'float64' to 'float32', possible loss of data
+  logmath.c
+  listelem_alloc.c
+  heap.c
+  hash_table.c
+  glist.c
+  genrand.c
+  filename.c
+  f2c_lite.c
+  err.c
+  dtoa.c
+  cmd_ln.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\cmd_ln.c(151): warning C4090: 'function': different 'const' qualifiers
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\cmd_ln.c(332): warning C4090: 'function': different 'const' qualifiers
+  Generating Code...
+  Compiling...
+  ckd_alloc.c
+  case.c
+  blas_lite.c
+  bitvec.c
+  bitarr.c
+  bio.c
+  ngram_model_trie.c
+  ngram_model_set.c
+  ngram_model.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model.c(980): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+  lm_trie_quant.c
+  lm_trie.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\lm_trie.c(212): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\lm_trie.c(294): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\lm_trie.c(299): warning C4018: '<': signed/unsigned mismatch
+  ngrams_raw.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(99): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(124): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  jsgf_scanner.c
+jsgf_scanner.c(922): warning C4018: '<': signed/unsigned mismatch
+_jsgf_scanner.l(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+jsgf_scanner.c(1819): warning C4018: '<': signed/unsigned mismatch
+  jsgf_parser.c
+  jsgf.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\jsgf.c(945): warning C4090: 'function': different 'const' qualifiers
+  fsg_model.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\fsg_model.c(663): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\fsg_model.c(866): warning C4244: 'function': conversion from 'float32' to 'int', possible loss of data
+  yin.c
+  fixlog.c
+  fe_warp_piecewise_linear.c
+  fe_warp_inverse_linear.c
+  Generating Code...
+  Compiling...
+  fe_warp.c
+  fe_warp_affine.c
+  fe_sigproc.c
+  fe_prespch_buf.c
+  fe_noise.c
+  fe_interface.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\fe\fe_interface.c(473): warning C4267: '+=': conversion from 'size_t' to 'int16', possible loss of data
+  lda.c
+  feat.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\feat\feat.c(370): warning C4018: '>=': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\feat\feat.c(404): warning C4018: '>=': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\feat\feat.c(820): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\feat\feat.c(900): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\feat\feat.c(903): warning C4018: '<': signed/unsigned mismatch
+  cmn_prior.c
+  cmn.c
+  agc.c
+  ad_win32.c
+  Generating Code...
+     Creating library ../../bin/Debug/Win32/sphinxbase.lib and object ../../bin/Debug/Win32/sphinxbase.exp
+  sphinxbase.vcxproj -> C:\Users\Ralph\Downloads\pocketsphinx\sphinxbase\\bin\Debug\Win32\sphinxbase.dll

@@ -1,0 +1,3 @@
+﻿  continuous.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\programs\continuous.c(110): warning C4244: '=': conversion from 'float64' to 'float', possible loss of data
+  pocketsphinx_continuous.vcxproj -> C:\Users\Ralph\Downloads\pocketsphinx\pocketsphinx\\bin\Debug\Win32\pocketsphinx_continuous.exe

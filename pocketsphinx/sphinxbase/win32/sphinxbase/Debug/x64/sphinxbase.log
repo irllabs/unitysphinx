@@ -1,0 +1,143 @@
+﻿  strfuncs.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\strfuncs.c(110): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\strfuncs.c(193): warning C4244: 'return': conversion from '__int64' to 'int32', possible loss of data
+  slapack_lite.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1041): warning C4244: '=': conversion from 'doublereal' to 'real', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1046): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1074): warning C4244: '=': conversion from 'doublereal' to 'real', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1079): warning C4244: '=': conversion from 'double' to 'real', possible loss of data
+  slamch.c
+  sbthread.c
+  profile.c
+  priority_queue.c
+  pio.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\pio.c(332): warning C4267: '+=': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\pio.c(335): warning C4267: '+=': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\pio.c(439): warning C4267: '+=': conversion from 'size_t' to 'int32', possible loss of data
+  mmio.c
+  matrix.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\matrix.c(71): warning C4244: '*=': conversion from 'float64' to 'float32', possible loss of data
+  logmath.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\logmath.c(296): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  listelem_alloc.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\listelem_alloc.c(148): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\listelem_alloc.c(214): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\listelem_alloc.c(223): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\listelem_alloc.c(226): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\listelem_alloc.c(242): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  heap.c
+  hash_table.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\hash_table.c(338): warning C4311: 'type cast': pointer truncation from 'void *' to 'long'
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\hash_table.c(374): warning C4311: 'type cast': pointer truncation from 'void *' to 'long'
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\hash_table.c(598): warning C4311: 'type cast': pointer truncation from 'void *' to 'long'
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\hash_table.c(609): warning C4311: 'type cast': pointer truncation from 'void *' to 'long'
+  glist.c
+  genrand.c
+  filename.c
+  f2c_lite.c
+  err.c
+  dtoa.c
+  cmd_ln.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\cmd_ln.c(117): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\cmd_ln.c(122): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\cmd_ln.c(124): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\cmd_ln.c(151): warning C4090: 'function': different 'const' qualifiers
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\cmd_ln.c(332): warning C4090: 'function': different 'const' qualifiers
+  Generating Code...
+  Compiling...
+  ckd_alloc.c
+  case.c
+  blas_lite.c
+  bitvec.c
+  bitarr.c
+  bio.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\bio.c(354): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\bio.c(359): warning C4267: 'return': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\bio.c(377): warning C4267: 'function': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\bio.c(576): warning C4267: 'function': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\util\bio.c(588): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  ngram_model_trie.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model_trie.c(154): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model_trie.c(324): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model_trie.c(328): warning C4267: '+=': conversion from 'size_t' to 'uint32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model_trie.c(389): warning C4267: '+=': conversion from 'size_t' to 'int32', possible loss of data
+  ngram_model_set.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(84): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(84): warning C4311: 'type cast': pointer truncation from 'void *' to 'long'
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(89): warning C4311: 'type cast': pointer truncation from 'void *' to 'long'
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(112): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(112): warning C4311: 'type cast': pointer truncation from 'void *' to 'long'
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(663): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model_set.c(663): warning C4311: 'type cast': pointer truncation from 'void *' to 'long'
+  ngram_model.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model.c(348): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model.c(348): warning C4311: 'type cast': pointer truncation from 'void *' to 'long'
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model.c(638): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model.c(638): warning C4311: 'type cast': pointer truncation from 'void *' to 'long'
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model.c(641): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngram_model.c(980): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+  lm_trie_quant.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\lm_trie_quant.c(78): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\lm_trie_quant.c(116): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\lm_trie_quant.c(117): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  lm_trie.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\lm_trie.c(212): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\lm_trie.c(294): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\lm_trie.c(299): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\lm_trie.c(523): warning C4267: 'initializing': conversion from 'size_t' to 'uint32', possible loss of data
+  ngrams_raw.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(99): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(124): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  jsgf_scanner.c
+_jsgf_scanner.l(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  jsgf_parser.c
+  jsgf.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\jsgf.c(945): warning C4090: 'function': different 'const' qualifiers
+  fsg_model.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\fsg_model.c(663): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\fsg_model.c(683): warning C4312: 'type cast': conversion from 'long' to 'void *' of greater size
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\fsg_model.c(683): warning C4311: 'type cast': pointer truncation from 'void *' to 'long'
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\fsg_model.c(710): warning C4311: 'type cast': pointer truncation from 'void *' to 'long'
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\lm\fsg_model.c(866): warning C4244: 'function': conversion from 'float32' to 'int', possible loss of data
+  yin.c
+  fixlog.c
+  fe_warp_piecewise_linear.c
+  fe_warp_inverse_linear.c
+  Generating Code...
+  Compiling...
+  fe_warp.c
+  fe_warp_affine.c
+  fe_sigproc.c
+  fe_prespch_buf.c
+  fe_noise.c
+  fe_interface.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\fe\fe_interface.c(418): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\fe\fe_interface.c(458): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\fe\fe_interface.c(473): warning C4267: '+=': conversion from 'size_t' to 'int16', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\fe\fe_interface.c(525): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\fe\fe_interface.c(532): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\fe\fe_interface.c(542): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\fe\fe_interface.c(548): warning C4244: '=': conversion from '__int64' to 'int16', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\fe\fe_interface.c(565): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\fe\fe_interface.c(573): warning C4244: '-=': conversion from '__int64' to 'int', possible loss of data
+  lda.c
+  feat.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\feat\feat.c(370): warning C4018: '>=': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\feat\feat.c(404): warning C4018: '>=': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\feat\feat.c(900): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxbase\feat\feat.c(903): warning C4018: '<': signed/unsigned mismatch
+  cmn_prior.c
+  cmn.c
+  agc.c
+  ad_win32.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxad\ad_win32.c(222): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxad\ad_win32.c(222): note: consider using '%zd' in the format string
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxad\ad_win32.c(294): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxad\ad_win32.c(294): note: consider using '%zd' in the format string
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxad\ad_win32.c(307): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\libsphinxad\ad_win32.c(307): note: consider using '%zd' in the format string
+  Generating Code...
+     Creating library ../../bin/Debug/x64/sphinxbase.lib and object ../../bin/Debug/x64/sphinxbase.exp
+  sphinxbase.vcxproj -> C:\Users\Ralph\Downloads\pocketsphinx\sphinxbase\\bin\Debug\x64\sphinxbase.dll

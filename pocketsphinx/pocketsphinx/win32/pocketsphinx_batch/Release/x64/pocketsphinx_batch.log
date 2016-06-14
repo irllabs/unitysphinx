@@ -1,0 +1,2 @@
+﻿  batch.c
+..\..\src\programs\batch.c(819): error C2198: 'ps_init': too few arguments for call

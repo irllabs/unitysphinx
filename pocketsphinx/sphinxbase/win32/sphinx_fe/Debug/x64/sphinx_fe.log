@@ -1,0 +1,5 @@
+﻿  sphinx_fe.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(377): warning C4267: 'function': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(383): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\sphinx_fe\sphinx_fe.c(423): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  sphinx_fe.vcxproj -> C:\Users\Ralph\Downloads\pocketsphinx\sphinxbase\\bin\Debug\x64\sphinx_fe.exe

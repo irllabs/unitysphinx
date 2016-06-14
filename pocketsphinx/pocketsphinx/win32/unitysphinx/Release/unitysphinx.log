@@ -1,0 +1,8 @@
+﻿  unitysphinx.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\Ralph\Downloads\pocketsphinx\pocketsphinx\Release\unitysphinx.dll) does not match the Linker's OutputFile property value (C:\Users\Ralph\Downloads\pocketsphinx\pocketsphinx\bin\Release\Win32\unitysphinx.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library C:\Users\Ralph\Downloads\pocketsphinx\pocketsphinx\Release\unitysphinx.lib and object C:\Users\Ralph\Downloads\pocketsphinx\pocketsphinx\Release\unitysphinx.exp
+  Generating code
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\programs\unitysphinx.cpp(371): warning C4715: 'Recognize_Mic': not all control paths return a value
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  unitysphinx.vcxproj -> C:\Users\Ralph\Downloads\pocketsphinx\pocketsphinx\Release\unitysphinx.dll

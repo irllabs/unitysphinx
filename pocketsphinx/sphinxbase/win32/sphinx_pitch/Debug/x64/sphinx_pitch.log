@@ -1,0 +1,3 @@
+﻿  sphinx_pitch.c
+c:\users\ralph\downloads\pocketsphinx\sphinxbase\src\sphinx_adtools\sphinx_pitch.c(428): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  sphinx_pitch.vcxproj -> C:\Users\Ralph\Downloads\pocketsphinx\sphinxbase\\bin\Debug\x64\sphinx_pitch.exe

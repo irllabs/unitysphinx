@@ -1,0 +1,4 @@
+﻿  sphinx_fe.c
+..\..\src\sphinx_fe\sphinx_fe.c(371): warning C4018: '<': signed/unsigned mismatch
+  sphinx_fe.vcxproj -> C:\Users\Ralph\Downloads\pocketsphinx\sphinxbase\\bin\Release\Win32\sphinx_fe.exe
+  sphinx_fe.vcxproj -> .\../../bin/Release/Win32/sphinx_fe.pdb (Full PDB)

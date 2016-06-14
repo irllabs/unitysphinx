@@ -1,0 +1,83 @@
+﻿  vector.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\vector.c(102): warning C4244: '*=': conversion from 'float64' to 'float32', possible loss of data
+  tmat.c
+  s2_semi_mgau.c
+  ptm_mgau.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ptm_mgau.c(841): warning C4244: '=': conversion from 'int16' to 'uint8', possible loss of data
+  ps_mllr.c
+  ps_lattice.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(452): warning C4244: 'initializing': conversion from 'float64' to 'float32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1248): warning C4244: '+=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1291): warning C4244: '+=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1325): warning C4244: '+=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1328): warning C4244: '+=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1378): warning C4244: '+=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1400): warning C4244: '=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1437): warning C4244: '+=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1507): warning C4244: '=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1514): warning C4244: 'function': conversion from 'float32' to 'int', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1597): warning C4244: '+=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1682): warning C4244: '+=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1688): warning C4244: '+=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1759): warning C4244: '=': conversion from 'float32' to 'int32', possible loss of data
+  pocketsphinx.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\pocketsphinx.c(321): warning C4244: '=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\pocketsphinx.c(341): warning C4244: 'function': conversion from 'int32' to 'float32', possible loss of data
+  phone_loop_search.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\phone_loop_search.c(230): warning C4244: '=': conversion from 'float64' to 'int32', possible loss of data
+  ngram_search_fwdtree.c
+  ngram_search_fwdflat.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ngram_search_fwdflat.c(709): warning C4244: '+=': conversion from 'float32' to 'int32', possible loss of data
+  ngram_search.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ngram_search.c(93): warning C4090: 'function': different 'const' qualifiers
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ngram_search.c(136): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ngram_search.c(724): warning C4244: '=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ngram_search.c(1044): warning C4244: 'function': conversion from 'double' to 'float32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ngram_search.c(1189): warning C4244: '=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ngram_search.c(1245): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ms_senone.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(225): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(314): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(325): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(371): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(372): warning C4018: '<=': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ms_senone.c(376): warning C4018: '<': signed/unsigned mismatch
+  ms_mgau.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ms_mgau.c(133): warning C4018: '>': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ms_mgau.c(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ms_mgau.c(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\ms_mgau.c(224): warning C4018: '<': signed/unsigned mismatch
+  ms_gauden.c
+  mdef.c
+  kws_search.c
+  kws_detections.c
+  hmm.c
+  fsg_search.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\fsg_search.c(214): warning C4244: '=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\fsg_search.c(223): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+  fsg_lextree.c
+  Generating Code...
+  Compiling...
+  fsg_history.c
+  dict2pid.c
+  dict.c
+  blkarray_list.c
+  bin_mdef.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\bin_mdef.c(148): warning C4244: '=': conversion from 'int16' to 'uint8', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\bin_mdef.c(149): warning C4244: '=': conversion from 'int16' to 'uint8', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\bin_mdef.c(150): warning C4244: '=': conversion from 'int16' to 'uint8', possible loss of data
+  allphone_search.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\allphone_search.c(545): warning C4244: '=': conversion from 'float32' to 'int32', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\allphone_search.c(604): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+  acmod.c
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\acmod.c(188): warning C4244: '=': conversion from 'double' to 'mfcc_t', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\acmod.c(193): warning C4244: '=': conversion from 'double' to 'mfcc_t', possible loss of data
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\acmod.c(498): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\acmod.c(509): warning C4018: '<': signed/unsigned mismatch
+c:\users\ralph\downloads\pocketsphinx\pocketsphinx\src\libpocketsphinx\acmod.c(560): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+     Creating library ..\..\bin\Debug\Win32/pocketsphinx.lib and object ..\..\bin\Debug\Win32/pocketsphinx.exp
+  pocketsphinx.vcxproj -> C:\Users\Ralph\Downloads\pocketsphinx\pocketsphinx\\bin\Debug\Win32\pocketsphinx.dll
