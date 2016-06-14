@@ -6,7 +6,7 @@ using System.Text;
 
 internal static class SphinxPlugin
 {
-	#if UNITY_STANDALONE_WIN || UNITY_EDITOR_WIN
+	#if UNITY_STANDALONE || UNITY_EDITOR
 	const string dll = "unitysphinx";
 	#endif
 
@@ -14,7 +14,7 @@ internal static class SphinxPlugin
 	public static extern int Recognize_Mic();
 
 	[DllImport (dll, EntryPoint = "Init_Recognizer")]
-	public static extern int Init_Recognizer(int audio, int search, 
+	public static extern int Init_Recognizer(int audio, int search,
 		StringBuilder hmm, StringBuilder lm, StringBuilder dict,
 		StringBuilder jsgf, StringBuilder kws);
 
