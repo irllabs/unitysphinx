@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Digits Grammar file
+ */
+
+grammar digits;
+
+public <miscellaneous> = (quit);
+
+public <basicCmd> = <numbers> <animals>;
+
+<numbers> = (one | two | three | four | five | six | seven | eight | nine);
+
+<animals> = (cats | dogs | mice | humans | chains | monkeys | horses);
